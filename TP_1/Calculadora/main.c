@@ -12,7 +12,7 @@ int main()
     float resultado=0.0;
     int auxFacA;
     int intentos = 0;
-  /*Muestra el menu al inciar el programa y pide ingresar una opcion*/
+  /*Muestra el menu al iniciar el programa y pide ingresar una opcion*/
     while(seguir==1)
     {
         printf("Ingrese una opcion\n\n");
